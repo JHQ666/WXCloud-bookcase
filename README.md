@@ -32,6 +32,8 @@ By [腾讯云学院](https://cloud.tencent.com/developer/edu)
 
 适合人群：**微信小程序开发人员**
 
+jhqyyds
+
 编程语言：**JavaScript**
 
 课程地址：[**https://cloud.tencent.com/developer/edu/course-100005-1244**](https://cloud.tencent.com/developer/edu/course-100005-1244)
